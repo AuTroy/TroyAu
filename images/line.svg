@@ -1,0 +1,15 @@
+ <svg
+        id="hover-me-line"
+        width="191"
+        height="134"
+        viewBox="0 0 191 134"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M187 130.5C167.167 90.3333 102.8 8.7 4 3.5"
+          stroke="black"
+          stroke-width="7"
+          stroke-linecap="round"
+        />
+      </svg>
